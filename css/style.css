@@ -1,15 +1,5 @@
-h1 {
-  color: red;
-  font-size: 48px;
-  text-align: center;
-  font-weight: normal;
-  text-decoration: line-through;
-}
-p {
-  font-weight: bold;
-  text-decoration: underline;
-}
+@charset "utf-8";
 
-a {
-  text-decoration: none;
+h1 {
+  font-family: Verdana, 'Arial Black', メイリオ, sans-serif;
 }
