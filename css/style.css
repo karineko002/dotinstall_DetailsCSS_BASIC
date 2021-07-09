@@ -1,9 +1,15 @@
-body {
-  color: skyblue;
-  font-size: 12px;
-  border: 1px solid pink;
+h1 {
+  color: red;
+  font-size: 48px;
+  text-align: center;
+  font-weight: normal;
+  text-decoration: line-through;
+}
+p {
+  font-weight: bold;
+  text-decoration: underline;
 }
 
-h1 {
-  border: inherit;
+a {
+  text-decoration: none;
 }
