@@ -14,12 +14,7 @@
   background-color: tomato;
   width: 50%;
   height: 50%;
-  /* overflow: scroll; */
-  /* border: 2px solid blue; */
-  /* border: 2px dashed blue; */
-  /* border-top: 2px solid blue;
-  border-bottom: 2px solid blue; */
   border: 2px solid blue;
-  /* border-bottom:none; */
-  border-radius:10px;
+  padding-top: 20px;
+  padding-left: 40px;
 }
