@@ -1,9 +1,18 @@
 .box1 {
-  background-color: orange;
+  background-color: rgba(225, 0, 0, 0.5);
+  
+  width: 200px;
+  height: 200px;
 }
 .box2 {
   background-color: skyblue;
 }
 .box3 {
   background-color: tomato;
+}
+.box4 {
+  background-color: tomato;
+  width: 50%;
+  height: 50%;
+  overflow: scroll;
 }
