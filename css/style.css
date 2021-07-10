@@ -10,6 +10,11 @@
 }
 .box3 {
   background-color: tomato;
+  width: 100px;
+  height: 40px;
+  /* display: none; */
+  /* display: inline-block; */
+  display: none;
 }
 .box4 {
   background-color: tomato;
