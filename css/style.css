@@ -5,4 +5,5 @@ header {
   background-size: cover;
   background-position: center; */
   background: center/cover pink url(../img/header.png);
+
 }
