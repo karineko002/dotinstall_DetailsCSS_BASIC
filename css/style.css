@@ -1,16 +1,12 @@
 .box1 {
   background-color: rgba(225, 0, 0, 0.5);
-  
   width: 200px;
   height: 200px;
-
   margin-bottom: 20px;
-  /* margin: 0 0 20px;  */
-  margin-left: auto;
-  margin-right: auto;
 }
 .box2 {
   background-color: skyblue;
+  margin-top: 10px;
 }
 .box3 {
   background-color: tomato;
